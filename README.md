@@ -1,5 +1,14 @@
 # Wazuh-XDR-and-SIEM-Implementation
 
+![Screenshot_2024-05-28_19_33_25](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/cdd6c38b-c1d2-4b49-9151-920cb0180db8)
+![Screenshot_2024-05-28_19_35_12](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/4444a8ab-6899-4207-ae0e-6a1f5e68ca7e)
+![Screenshot_2024-05-28_19_44_32](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/787a73ef-e036-46c5-8290-a36c67c04792)
+![Screenshot_2024-05-28_19_44_57](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/27e0f784-b5a8-4cdf-a4db-74e52f5ff893)
+![Screenshot_2024-05-28_19_46_19](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/debaf53b-572b-4bbf-ac09-171ef3d6d61e)
+![Screenshot_2024-05-28_19_47_19](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/49a85be6-3559-48a1-bdab-f9792bb4d167)
+![Screenshot_2024-05-28_19_46_36](https://github.com/ELPatrinum/Wazuh-XDR-and-SIEM-Implementation/assets/121964622/130a934e-4c93-47fe-9273-00936bb40ec0)
+
+
 Manage and Monitor a Windows and a Linux machines simultaneously using Wazuh
 
 This project involved the deployment and configuration of Wazuh to enhance the organization's cybersecurity posture through its extended detection and response (XDR) capabilities and comprehensive Security Information and Event Management (SIEM) solution. The primary objectives were to:
